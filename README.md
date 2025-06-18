@@ -1,2 +1,3 @@
-# ai_hw4
-同济大学 人工智能第四次作业
+# Comparing Language Models' Chinese Semantic Understanding
+A comparative analysis of various language models in understanding Chinese semantics
+语言模型对理解中文语义的分析比较，附有使用截图和比较说明文档
